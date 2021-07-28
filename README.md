@@ -10,5 +10,5 @@ I am glad something brought you to my Github page, since you're here I can tell 
 - 💬 Ask me about Statistcs, Data Science, Machine Learning, Hybrid-Electric Vehicles
 - 📫 How to reach me: iprtk@icloud.com
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I can speak about 2 sentences of Fluent Spanish
+- ⚡ Fun fact: I can speak about 2 sentences of Fluent Spanish and can sing a full Song 
 
