@@ -1,4 +1,4 @@
-### Hi there 👋 I am Prateek (Data Scietist)
+### Hi there 👋 I am Prateek (Data Scientist)
 
 <!--
 **prteek/prteek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
