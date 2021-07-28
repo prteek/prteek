@@ -1,16 +1,14 @@
-### Hi there 👋
+### Hi there 👋 I am Prateek (
 
 <!--
 **prteek/prteek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
+I am glad something brought you to my Github page, since you're here I can tell a bit more about myself:
+
+- 🔭 I’m currently working on making vehicles smart using telemetry data
+- 🌱 I’m currently learning Bayesian Statistics and MLOps
+- 💬 Ask me about Statistcs, Data Science, Machine Learning, Hybrid-Electric Vehicles
+- 📫 How to reach me: iprtk@icloud.com
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I can speak about 2 sentences of Fluent Spanish
+
