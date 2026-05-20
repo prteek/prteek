@@ -3,7 +3,6 @@
 <!--
 **prteek/prteek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-I am glad something brought you to my Github page, since you're here I can tell a bit more about myself:
 
 - 🔭 I am a Lead Data Scientist at a Real Estate investment startup
 - 🌱 I’m currently pursuing part time Masters in Applied Stats
