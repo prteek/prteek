@@ -5,7 +5,7 @@
 -->
 
 - 🔭 I am a Lead Data Scientist at a Real Estate investment startup
-- 🌱 I’m currently pursuing part time Masters in Applied Stats
+- 🏗️ I’m currently building specialised and small ML models
 - 📫 How to reach me: prteek@icloud.com
 - ⚡ Fun fact: I can speak about 2 sentences of Fluent Spanish and can sing a full Song 
 
